@@ -1,0 +1,36 @@
+1. Check the topic and the brief description against your group. 
+
+2. Your first task is to find out around six papers on the topic assigned to you, Check the following conferences for the previous five years (2018 onwards) to find out suitable papers on the topic. 
+
+OSDI
+SOSP
+Usenix ATC
+NSDI
+ASPLOS
+EuroSys
+FAST (Usenix)
+IEEE S&P
+Usenix Security
+NDSS
+ACM CCS
+ACM SIGCOMM
+
+Select papers from above conferences only and the papers that got published from 2018 onwards. 
+
+3. Prepare an Excel with the following details. 
+
+i) Title of the Paper
+
+ii) Authors and their affiliations
+
+iii) Year of Publications
+
+iv) Conference Name
+
+v) A brief writeup (5-6 sentences) highlighting why you have chosen the paper and how it related to the topic assigned to you
+
+For the brief writeup, do not copy the abstract directly. Write in your own words explaining the above. You may read the abstract of the paper and the first few paragraph on the introduction to have a broad idea on what the paper has done, and accordingly summarize the same. You do not need to read the entire paper in details at this stage. 
+
+4. Submit the above Excel through CSE Moodle (https://moodlecse.iitkgp.ac.in/) by  September 03, 2023 EOD. 
+
+5. You have 20% marks (out of the full marks for the term project) for the above task.
